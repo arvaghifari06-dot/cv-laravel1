@@ -1,0 +1,53 @@
+{
+  "nama": "Muhammad Arva Alghifari",
+  "nama_depan": "MUHAMMAD ARVA",
+  "nama_belakang": "ALGHIFARI",
+  "nim": "5325XXXXXX",
+  "program_studi": "D4 Teknologi Rekayasa Multimedia",
+  "kampus": "Politeknik Elektronika Negeri Surabaya",
+  "email": "arvaghifari06@gmail.com",
+  "telepon": "+62 821-3982-3305",
+  "instagram": "arvaghifar",
+  "kota": "Surabaya",
+  "peran": "CONTENT CREATOR",
+  "tagline": "Social Media Specialist & Visual Storyteller",
+  "deskripsi": "Mahasiswa D4 Teknologi Rekayasa Multimedia yang merancang strategi media sosial berbasis data sekaligus memproduksi konten visual.",
+  "pendidikan": [
+    {
+      "waktu": "2025 — SEKARANG",
+      "judul": "D4 Teknologi Rekayasa Multimedia",
+      "tempat": "Politeknik Elektronika Negeri Surabaya"
+    },
+    {
+      "waktu": "LULUS 2025",
+      "judul": "SMK Muhammadiyah 1 Surabaya",
+      "tempat": ""
+    }
+  ],
+  "pengalaman": [
+    {
+      "waktu": "2025 — SEKARANG",
+      "judul": "Public Relation and Content Planner",
+      "tempat": "UKM Cinemascope"
+    },
+    {
+      "waktu": "2024 — 2025",
+      "judul": "Content Planning and Editor",
+      "tempat": "Probest School Surabaya"
+    }
+  ],
+  "kursus": [
+    {
+      "waktu": "2023",
+      "judul": "Certified English for Beginner",
+      "tempat": ""
+    }
+  ],
+  "alat_harian": [
+    "Adobe Photoshop",
+    "Illustrator",
+    "Premiere Pro",
+    "Canva",
+    "CapCut"
+  ]
+}
